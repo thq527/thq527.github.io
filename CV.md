@@ -16,8 +16,8 @@ Computing networks, programmable networks, resource allocation, and routing opti
 
 ## Education
 
-- Ph.D. in Computer Software and Theory, University of Science and Technology of China, Hefei, China, Sep. 2018-Jun. 2023
-- B.Eng. in Computer Science and Technology, Northeastern University, Shenyang, China, Sep. 2014-Jun. 2018
+- Ph.D. in Computer Software and Theory, University of Science and Technology of China, China, Sep. 2018-Jun. 2023
+- B.Eng. in Computer Science and Technology, Northeastern University, China, Sep. 2014-Jun. 2018
 
 ## Selected Publications
 
